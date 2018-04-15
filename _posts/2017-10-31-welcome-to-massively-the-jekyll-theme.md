@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "I wan to learn more about this terrible Guest!"
+title:  "Ohh...I want to learn more about this terrible Guest!"
 date:   2018-04-12
 excerpt: "References"
-image: "/images/pic02.jpg"
+image: "/images/pic07.jpg"
 ---
 
 ## How to Use This Theme
