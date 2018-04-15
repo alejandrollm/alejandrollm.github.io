@@ -16,10 +16,10 @@ Boxwood are in the genus Buxus and family Buxaceae. Species from this genus can 
 ### Symptoms
 <div class="box">
   <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
+ Boxwood blight (also known as box blight), caused by the fungus Calonectria pseudonaviculata1, is a serious fungal disease of boxwood that results in defoliation and decline of susceptible boxwood (E. Bush, M. A. Hansen, N. Dart, C. Hong, A. Bordas, 2016).
   </p>
 </div>
 
 <span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
 
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+Initial symptoms of boxwood blight include circular, tan leaf spots with a dark purple or brown border. Leaf spots may or may not have yellow to reddish halos surrounding the spot. Black stem lesions or blackening of the stems is often seen. This can be confused with black lesions due to Colletotrichum stem canker, a relatively new disease also affecting boxwood stems. Boxwood blight infected leaves become tan and readily drop from the plant leaving bare stems. Rapid defoliation is a characteristic symptom of boxwood blight that separates it from other boxwood diseases. Sections or whole plants turn tan and eventually die. The disease can resemble Volutella blight, except that with Volutella blight, as well as with symptoms of root stress or Phytophthora root disease, the leaves often remain attached to the stems. Box blight can move quickly through infected plants, gardens, and nurseries under favorable environmental conditions (Williams-woodward, 2015)
