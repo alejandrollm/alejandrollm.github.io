@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Massively: The Jekyll Theme!"
+title:  "I wan to learn more about this terrible Guest!"
 date:   2018-04-12
-excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
+excerpt: "References"
 image: "/images/pic02.jpg"
 ---
 
