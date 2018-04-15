@@ -5,8 +5,7 @@ date:   2018-04-12
 excerpt: "References"
 image: "/images/pic07.jpg"
 ---
-/* dont endit below this line 
-
+>! Spoiler
 ## How to Use This Theme
 Just go ahead and read up on [how to install Jekyll](https://jekyllrb.com/). It's not too hard I promise!
 
@@ -28,4 +27,4 @@ sitemap:
 ### Formspring integration
 The contact form below each page on the footer actually collects information! Just change your email address in the ```_config.yml``` file!
 
-*/
+
