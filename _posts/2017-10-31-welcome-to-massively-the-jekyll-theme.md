@@ -9,8 +9,8 @@ image: "/images/pic07.jpg"
 ## Cited literature
 
 
-[1]	B. Henricot, A. Pérez Sierra, and C. Prior, “A new blight diseese on Buxus in the UK caused by the fungus Cylindrocladium,” Plant Pathol., vol. 49, no. 6, p. 805, 2000.
-[2]	B. Henricot and A. Culham, “Cylindrocladium buxicola, a new species affecting Buxus spp., and its phylogenetic status,” Mycologia, vol. 94, no. 6, pp. 980–997, 2002.
+<p>[1]	B. Henricot, A. Pérez Sierra, and C. Prior, “A new blight diseese on Buxus in the UK caused by the fungus Cylindrocladium,” Plant Pathol., vol. 49, no. 6, p. 805, 2000.</p>
+<p>[2]	B. Henricot and A. Culham, “Cylindrocladium buxicola, a new species affecting Buxus spp., and its phylogenetic status,” Mycologia, vol. 94, no. 6, pp. 980–997, 2002.</p>
 [3]	K. L. Ivors et al., “First Report of Boxwood Blight Caused by Cylindrocladium pseudonaviculatum in the United States,” Plant Dis., vol. 96, no. 7, pp. 1070–1070, Jul. 2012.
 [4]	J. A. LaMondia, “Management of Calonectria pseudonaviculata in Boxwood with Fungicides and Less Susceptible Host Species and Varieties,” Plant Dis., vol. 99, no. 3, pp. 363–369, 2015.
 [5]	X. Yang and C. Hong, “Microsclerotial enumeration, size, and survival of Calonectria pseudonaviculata,” 2017.
