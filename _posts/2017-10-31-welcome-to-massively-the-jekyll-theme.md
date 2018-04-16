@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ohh...I want to learn more about this terrible Guest!"
+title:  "Wow..Where Can I learn more about this terrible Guest?"
 date:   2018-04-12
 excerpt: "References"
 image: "/images/pic07.jpg"
@@ -26,7 +26,7 @@ Images
 
 <p>http://www.hriresearch.org/HRI/Research_Results/Outside_The_Boxwood.aspx</p>
 <p>https://site.extension.uga.edu/southeast-ag/2015/12/boxwood-blight-in-georgia/ (Images by Jean Williams-Woodward)</p>
-<p>Pic03 http://baileyslandscape.com/blog/boxwood-blight/</p>
+<p>http://baileyslandscape.com/blog/boxwood-blight/</p>
 <p>https://www.thetreecenter.com/american-boxwood/</p>
 <p>http://foxtreeservice.com/boxwood-blight-alert/ (by Conn. Dept. of Agriculture)</p>
 <p> http://www.landscapeeast.com/blog/portland-landscaping-boxwood-blight-2015-07</p>
@@ -37,28 +37,5 @@ Images
 
 
 
-
-
->! Spoiler
-## How to Use This Theme
-Just go ahead and read up on [how to install Jekyll](https://jekyllrb.com/). It's not too hard I promise!
-
-Download this repository [here](https://github.com/iwiedenm/jekyll-theme-massively) and save it to any folder you want.
-
-Open a terminal window or a command line and ```cd``` to that location.
-
-Then enter: ```bundle exec jekyll serve```. You can now access your new Jekyll site from [http://127.0.0.1:4000/](http://127.0.0.1:4000/). Have fun exploring your new site!
-
-## Features
-### Auto-Generating Sitemap
-The sitemap is auto generated! Just simply change the front matter of each site. It looks like so...
-```
-sitemap:
-    priority: 0.7
-    lastmod: 2017-11-02
-    changefreq: weekly
-```
-### Formspring integration
-The contact form below each page on the footer actually collects information! Just change your email address in the ```_config.yml``` file!
 
 
